@@ -1,7 +1,8 @@
 ![I am a Web Developer](https://media-exp1.licdn.com/dms/image/D4E35AQH_A9sJ_68ggg/profile-framedphoto-shrink_400_400/0/1658252189667?e=1663786800&v=beta&t=LnV5JE7cG2-Uv71b1tpRqtI-hYrCIP8vW1n2TgPlDXc)
 
 
-### Hi there 👋, Hello their, my name is Lelana.
+### Hello there 👋
+### My name is Lelana.
 #### I am a Web Developer
 
 
