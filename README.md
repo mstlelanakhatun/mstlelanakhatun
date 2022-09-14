@@ -1,7 +1,7 @@
-![I am a Web Developer](https://media-exp1.licdn.com/dms/image/D4E35AQH_A9sJ_68ggg/profile-framedphoto-shrink_400_400/0/1658252189667?e=1663786800&v=beta&t=LnV5JE7cG2-Uv71b1tpRqtI-hYrCIP8vW1n2TgPlDXc)
+![I am a Web Developer](https://scontent.fzyl1-1.fna.fbcdn.net/v/t39.30808-6/294044527_1763456230654489_4961030724720693975_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGN4_PAMAPVXc2XFqndUW-v38R71XBgdk_fxHvVcGB2T1tumQdEDKzKjW43CufO3z28JvG85JCHGev9B7uF6jPc&_nc_ohc=CLm2Hf0PSS4AX_irxGB&tn=ShJqNEs7mytB1vxO&_nc_ht=scontent.fzyl1-1.fna&oh=00_AT9mCht4XcOUWhdXfsSA2hd2ZvX-euhR1itR8Q6XU7qUkg&oe=63267E7B)
 
 
-### Hello there 👋
+### Hi there 👋
 ### My name is Lelana.
 #### I am a Web Developer
 
