@@ -7,7 +7,7 @@
 #### I am a Web Developer 
 
 
-Concurrently, I am employed as  Network Engineer at Trustaira Limited, Dhaka, Bangladesh. Also I am pursuing my MSC in CSE at Bangladesh University of Professionals (BUP) simultaneously. After completing my BSC in Computer Science Engineering (CSE) at Bangladesh Army International University of Science and Technology (BAIUST).  I completed my internship on Django from Jalalabad Gas T & D System Ltd, Mendibagh, Sylhet.  I contributed to one of their project there. My keen interest in CSE has enabled me to develop a good knowledge of C, C++, HTML, CSS, Bootstrap, Django, SQL, PHP, Git, JS, etc.
+Concurrently, I am employed as  Network Engineer at Trustaira Limited, Dhaka, Bangladesh. Also I am pursuing my MSC in Computer Science Engineering (CSE) at Bangladesh University of Professionals (BUP) simultaneously. After completing my BSC in CSE at Bangladesh Army International University of Science and Technology (BAIUST).  I completed my internship on Django from Jalalabad Gas T & D System Ltd, Mendibagh, Sylhet.  I contributed to one of their project there. My keen interest in CSE has enabled me to develop a good knowledge of C, C++, HTML, CSS, Bootstrap, Django, SQL, PHP, Git, JS, etc.
 
 Skills: Django/ JS / HTML5 / CSS3 / Bootstrap/ SQL / PHP etc.
 
