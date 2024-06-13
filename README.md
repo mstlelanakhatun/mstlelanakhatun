@@ -23,10 +23,7 @@ Skills: Django/ JS / HTML5 / CSS3 / Bootstrap/ SQL / PHP etc.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mstlelanakhatun&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mstlelanakhatun)  
-
-![GitHub metrics](https://metrics.lecoq.io/mstlelanakhatun)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mstlelanakhatun)  
 
-![Profile views](https://gpvc.arturio.dev/mstlelanakhatun)  
+
